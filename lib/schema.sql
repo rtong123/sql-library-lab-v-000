@@ -4,3 +4,8 @@ CREATE TABLE series(
   author_id TEXT,
   subgenre_id TEXT
 );
+
+CREATE TABLE subgenres(
+  id PRIMARY KEY,
+  name TEXT
+);
