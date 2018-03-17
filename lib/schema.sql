@@ -24,5 +24,9 @@ CREATE TABLE books(
 
 CREATE TABLE characters(
   id PRIMARY KEY,
-  name TEXT
+  name TEXT,
+  species TEXT,
+  motto TEXT,
+  series_id INTEGER,
+  author_id TEXT
 );
