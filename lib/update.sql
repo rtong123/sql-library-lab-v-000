@@ -1,2 +1,2 @@
-UPDATE characters SET characters.name = 'Martian'
+UPDATE characters SET name = 'Martian'
 WHERE character_id = 8
