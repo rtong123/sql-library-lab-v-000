@@ -1,2 +1,2 @@
 UPDATE characters SET character = 'Martian'
-WHERE characters.id = 8
+WHERE character_id = 8
